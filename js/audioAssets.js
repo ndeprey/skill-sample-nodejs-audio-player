@@ -3,7 +3,7 @@
 var audioData = [
     {
         'title' : 'Wouldnt it be nice',
-        'url' : 'https://drive.google.com/open?id=0B6vHHaBODLWdMktPRDFjZEp0ZTA'
+        'url' : 'https://s3.amazonaws.com/sleep-skill/01+Wouldn't+It+Be+Nice.mp3'
     }
 ];
 
